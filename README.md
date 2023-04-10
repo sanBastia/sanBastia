@@ -5,7 +5,7 @@
 
 
 # Hi, I'm San Sebastian 🤘
-🔭 I’m working as a software engineer for Fujibox <br>👯 I’m open for collaboration on any unique and interesting projects<br>🌱 in my free time i do read some technical stuff<br>
+🔭 I’m working as a software engineer for [FUJIBOX](https://fujiboxglobal.com)  <br>👯 I’m open for collaboration on any unique and interesting projects<br>🌱 in my free time i do read some technical stuff<br>
 
 
 # 💻 Tech Stack:
