@@ -25,7 +25,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![SanBastia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbastia&show_icons=true&theme=dracula)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanBastia&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
